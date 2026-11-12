@@ -231,7 +231,7 @@ int main() {
 		cout << "____________________________________________________________________________\n";
 		cout << "[1] Show Client List. \n";
 		cout << "[2] Add New Client. \n";
-		cout << "[3]  Delete Client. \n";
+		cout << "[3] Delete Client. \n";
 		cout << "[4] Update Client Info.\n";
 		cout << "[5] Find Client Info.\n";
 		cout << "[6] Exit.\n";
